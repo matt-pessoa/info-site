@@ -1,10 +1,8 @@
 import React from "react";
-import reactLogo from "../images/react-logo.png";
 
 function MainContent() {
 	return (
 		<div>
-			<img src={reactLogo} alt="React Logo" />
 			<h1>Fun facts about React</h1>
 			<ul>
 				<li>Was first released in 2013</li>

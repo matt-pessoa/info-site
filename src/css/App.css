@@ -19,6 +19,7 @@ header {
 nav {
   display: flex;
   align-items: center;
+  height: 5.7vh;
 }
 
 nav > h3, nav > h4 {
@@ -38,6 +39,7 @@ nav > h3 {
 main {
   background-color: #282D35;
   color: #FFFFFF;
+  height: 90vh;
 }
 
 main > h1 {
